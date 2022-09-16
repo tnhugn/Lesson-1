@@ -1,0 +1,18 @@
+h1{
+    color:pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    height: 300px;
+}
+.titleGt{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+img{
+    margin-left: 40%;
+}
+body{
+    background-color: #ff6b6b ;
+}
